@@ -16,8 +16,8 @@ CSV_FILE = os.path.join(UPLOAD_FOLDER, "player_data.csv")
 data = None
 uploaded_file = None  # Global variable to track the uploaded file name
 
-EMAIL_SENDER = 'andover2025@gmail.com'  # Replace with your email
-EMAIL_PASSWORD = 'wtwz fdsj bxrl niyb'  # Replace with your app password
+EMAIL_SENDER = '2027assassin@gmail.com'  # Replace with your email
+EMAIL_PASSWORD = 'blaz zwzl bvcq winq'  # Replace with your app password
 
 
 @app.route('/')
