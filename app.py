@@ -17,7 +17,7 @@ data = None
 uploaded_file = None  # Global variable to track the uploaded file name
 
 EMAIL_SENDER = '2027assassin@gmail.com'  # Replace with your email
-EMAIL_PASSWORD = 'blaz zwzl bvcq winq'  # Replace with your app password
+EMAIL_PASSWORD = 'blaz zwzl bvcq winq'  # Replace with your app password
 
 
 @app.route('/')
